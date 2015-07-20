@@ -1,3 +1,0 @@
-INDEX VERSION 1.127+C:\Users\ymatlashenko\Google Диск\JavaHW\JavaHW\edu.hillel.ifs\.metadata\.plugins\org.eclipse.jdt.core
-2474052773.index
-2995875126.index
